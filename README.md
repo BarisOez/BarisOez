@@ -22,9 +22,10 @@ Leidenschaft für sauberen Code, praxisnahe Lösungen und kontinuierliches Lerne
 ---
 
 ## 📌 Projects (Selection) / Projekte (Auswahl)
-- 🚀 **[Notes App](#)** – Full-Stack Web App for personal notes / Full-Stack Web-App für persönliche Notizen  
-- 🌐 **[Portfolio Website](#)** – Personal developer website built with React / Eigene Entwickler-Website mit React  
-- 🔗 **[REST API Backend](#)** – Java Spring Boot with PostgreSQL / Java Spring Boot mit PostgreSQL  
+- 🚀 **[Notes App](https://github.com/BarisOez/notes-api-spring)** – Full-Stack Web App for personal notes / Full-Stack Web-App für persönliche Notizen  
+- 🌐 **[Portfolio Website](https://barisoez.github.io/portfolio-website-react/)** – Personal developer website built with React / Eigene Entwickler-Website mit React  
+- 🔗 **[REST API Backend](https://github.com/BarisOez/notes-api-spring)** – Java Spring Boot with PostgreSQL / Java Spring Boot mit PostgreSQL  
+
 
 *(Links will be added once the repositories are online / Links werden ergänzt, sobald die Repositories online sind.)*
 
