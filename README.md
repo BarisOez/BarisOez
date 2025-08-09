@@ -46,3 +46,24 @@ Leidenschaft für sauberen Code, praxisnahe Lösungen und kontinuierliches Lerne
 
 ⭐ If you like my projects, feel free to leave a star!  
 ⭐ Wenn dir meine Projekte gefallen, lass gerne ein Star da!
+
+# Portfolio Website (React + Vite)
+
+My personal portfolio showcasing web and software projects.
+
+## 🚀 Live Demo
+[**View Website Here**](https://barisoez.github.io/portfolio-website-react/)
+
+## 📂 Source Code
+[GitHub Repository](https://github.com/BarisOez/portfolio-website-react)
+
+---
+
+### 🛠 Built With
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS Modules
+
+### 📸 Screenshots
+![Portfolio Screenshot](./screenshot.png)
